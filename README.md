@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alhern8542
 - 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently improving my Java skills, learning XML and Android Studio.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
