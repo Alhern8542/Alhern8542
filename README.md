@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alhern8542
-- 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently improving my Java skills, learning XML and Android Studio.
+- 👀 I’m interested in Computer Engineering & Software development. Currently working on Full-stack web development.
+- 🌱 Self taught learner improving on Python, Javascript, HTML5, CSS, Java, and Android Studio skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
