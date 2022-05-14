@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Alhern8542
-- 👀 I’m interested in Computer Engineering & Software development. Currently working on Full-stack web development.
-- 🌱 Self taught learner improving on Python, Javascript, HTML5, CSS, Java, and Android Studio skills.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Alberto
+- 👀 I’m interested in Computer Engineering & Software development. Currently working on skills for Full-stack web development.
+- 🌱 Self taught individual committed to life long learning, development, innovation and exploration of new technologies. Awaiting opportunities to work with other professionals and solve the challenges of today
 - 📫 https://www.linkedin.com/in/alberto-hernandez-683b0b11a
 
 <!---
